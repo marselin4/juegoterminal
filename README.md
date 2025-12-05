@@ -3,3 +3,9 @@ Decidi no terminarlo dado que siento que alcance el limite visual de lo que se p
 
 
 <img width="290" height="178" alt="image" src="https://github.com/user-attachments/assets/db06560e-318e-4e2e-bb18-aa96fedd08a1" />
+
+Para compilarlo:
+(necesitas un compilador de c++, como gcc)
+
+GCC:
+  g++ juego.cpp -o juego
